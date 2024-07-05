@@ -1,8 +1,8 @@
-# Super Store Dashboard for Sales & Profits
+## Super Store Dashboard for Sales & Profits
 
-## Dashboard of Sales Report: https://app.powerbi.com/groups/47240e6f-cbe3-4142-b2ac-97bd7152dffd/reports/d6717f4b-1cf8-46bb-94cd-c13ab793dac0/ReportSection?experience=power-bi
+# Dashboard of Sales Report: https://app.powerbi.com/groups/47240e6f-cbe3-4142-b2ac-97bd7152dffd/reports/d6717f4b-1cf8-46bb-94cd-c13ab793dac0/ReportSection?experience=power-bi
 
-## Dashboard of Profit Report: https://app.powerbi.com/groups/862a1018-e675-4c0a-ba10-ce8db04e27ec/reports/28fa3fc5-0bd0-4188-8de1-0029d139aaf2/ReportSection?experience=power-bi
+# Dashboard of Profit Report: https://app.powerbi.com/groups/862a1018-e675-4c0a-ba10-ce8db04e27ec/reports/28fa3fc5-0bd0-4188-8de1-0029d139aaf2/ReportSection?experience=power-bi
 
 ## Problem Statement
 
@@ -12,25 +12,24 @@ This dashboard evaluates sales trends across regions, categories, and time perio
 ### Steps followed 
 
 1. Data Preparation
-- Collected and cleaned the sales data using Excel formula.
+        Collected and cleaned the sales data using Excel formula.
 
 2. Data Import and Validation
-- Imported the cleaned data into Power BI and validate the data.
+        Imported the cleaned data into Power BI and validate the data.
 
 3. Data Visualization
-- Created visualizations for sales performance, Profit, sales by region, sales by categories of products
+        Created visualizations for sales performance, Profit, sales by region, sales by categories of products
 
 4. Dashboard Design
-- Designed an interactive dashboard with a logical layout, slicers, and customized tooltips for enhanced user experience.
+        Designed an interactive dashboard with a logical layout, slicers, and customized tooltips for enhanced user experience.
 
 5. Insights and Recommendations
-- Summarized key insights and provided actionable recommendations based on the data analysis.
+        Summarized key insights and provided actionable recommendations based on the data analysis.
 
 6. Documentation
-- Documented the process and findings in this README file.
-- Uploaded the .pbix file and included screenshots of the dashboard in the repository.
-
-
+        Documented the process and findings in this README file.
+        Uploaded the .pbix file and included screenshots of the dashboard in the repository.
+   
         
 ## A card visual was used to represent Sales.
 
@@ -58,7 +57,7 @@ This dashboard evaluates sales trends across regions, categories, and time perio
  
 ![Report_Snap](https://github.com/ImtyazAhamad/PowerBI_Project/assets/120785398/b7f978cb-a386-4d06-8a63-8006a9447dc0)
 
-## Report for Profit (Power BI Desktop)
+# Report for Profit (Power BI Desktop)
 
  ![Snap_Profit_Report](https://github.com/ImtyazAhamad/PowerBI_Project/assets/120785398/3274d256-3960-434d-86e3-c22cdf782338)
 
@@ -69,13 +68,13 @@ This dashboard evaluates sales trends across regions, categories, and time perio
  Following inferences can be drawn from the dashboard;
 
 
- ## A clear visualization showing which regions are performing well in terms of sales and which are lagging. 
+ # A clear visualization showing which regions are performing well in terms of sales and which are lagging. 
 
- ## which product categories and sub-categories are driving the most revenue
+ # which product categories and sub-categories are driving the most revenue
 
- ## Identification of the most and least profitable products and regions
+ # Identification of the most and least profitable products and regions
 
- ## Insights into the performance of different payment channels (e.g., online,Cards or Cash), helping to optimize payment channel strategies
+ # Insights into the performance of different payment channels (e.g., online,Cards or Cash), helping to optimize payment channel strategies
 
            
 ### [1] Top Sales of Sub-category Items
